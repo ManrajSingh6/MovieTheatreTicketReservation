@@ -10,4 +10,4 @@ To run this app, compile all .class source files into a JAR file and run.
 
 Completed by Manraj Singh, Sajan Hayer, Krishna Shah and Jacob Adeyemo. 
 
-Here is a link to watch a demonstration: [(https://www.youtube.com/watch?v=qsuXy2pTib8)]
+Here is a link to watch a demonstration: https://www.youtube.com/watch?v=qsuXy2pTib8
